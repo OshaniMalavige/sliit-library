@@ -15,4 +15,8 @@ public class MathOperation {
         return operand1 - operand2;
     }
 
+    public static double divide(double a, double b){
+        return a/b;
+    }
+
 }
